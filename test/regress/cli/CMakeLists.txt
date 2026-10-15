@@ -1604,6 +1604,7 @@ set(regress_0_tests
   regress0/proj-issue712-difficulty-elim-subtypes.smt2
   regress0/proj-issue750-real-to-int-safe.smt2
   regress0/proofs/alethe-contra-or-premise.smt2
+  regress0/proofs/alethe-ite-eq.smt2
   regress0/proofs/alethe-res-need-or-step.smt2
   regress0/proofs/alpha-eq-bv-reorder-1.smt2
   regress0/proofs/alpha-eq-bv-reorder-2.smt2
